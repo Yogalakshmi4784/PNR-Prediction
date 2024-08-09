@@ -1,5 +1,8 @@
-                                              To Create a list of indicators that can be used to predict the chances of a ticket gettting confirmed after train chart preparation
 
+
+
+To Create a list of indicators that can be used to predict the chances of a ticket gettting confirmed after train chart preparation
+===================================================================================================================================
 
 Dataset was collected from Kaggle:
 ======================
